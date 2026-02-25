@@ -28,23 +28,6 @@ Variables relevantes:
 
 ---
 
-## Estructura del proyecto
-
-project/
-│
-├── data
-│   ├── raw
-│   └── processed
-│
-├── notebooks
-│   ├── 01_eda_cleaning.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   └── 03_modeling.ipynb
-│
-└── README.mdS
-
----
-
 ## Proceso
 
 ### 1. Data Cleaning
