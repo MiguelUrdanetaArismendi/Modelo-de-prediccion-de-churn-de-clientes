@@ -30,14 +30,18 @@ Variables relevantes:
 
 ## Estructura del proyecto
 
+project/
+│
 ├── data
-│ ├── raw
-│ └── processed
+│   ├── raw
+│   └── processed
+│
 ├── notebooks
-│ ├── 01_eda_cleaning.ipynb
-│ ├── 02_feature_engineering.ipynb
-│ └── 03_modeling.ipynb
-└── README.md
+│   ├── 01_eda_cleaning.ipynb
+│   ├── 02_feature_engineering.ipynb
+│   └── 03_modeling.ipynb
+│
+└── README.mdS
 
 ---
 
