@@ -31,12 +31,8 @@ Variables relevantes:
 ## Estructura del proyecto
 
 ├── data
-│ ├── WA_Fn-UseC_-Telco-Customer-Churn
-│ └── df_clean
-│ └── x_train
-│ └── x_test
-│ └── y_train
-│ └── y_test
+│ ├── raw
+│ └── processed
 ├── notebooks
 │ ├── 01_eda_cleaning.ipynb
 │ ├── 02_feature_engineering.ipynb
